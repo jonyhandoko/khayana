@@ -1,0 +1,7 @@
+._*
+.htaccess
+uploads/*
+database.php
+config.php
+gocart.php
+*.bak

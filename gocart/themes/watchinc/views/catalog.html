@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+
+    <title>Watch Inc</title>
+
+    <link href="styles/init.css" rel="stylesheet">
+    <link href="styles/plug.css" rel="stylesheet">
+    <link href="styles/devs.css" rel="stylesheet">
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="images/ico/favicon.ico">
+  </head>
+  <body>
+
+    <div class="def-header">
+      <nav class="navbar navbar-default navbar-static-top">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button class="navbar-toggle navbar-toggle-left collapsed" data-toggle="collapse" data-target="#category" aria-expanded="false" aria-controls="category">
+              <img src="images/icon/menu.png">
+            </button>
+            <button class="navbar-toggle collapsed" data-toggle="collapse" data-target="#advance" aria-expanded="false" aria-controls="advance">
+              <img src="images/icon/shopping-bag.png">
+            </button>
+            <a class="navbar-brand" href="">
+              <img alt="Watchinc" src="images/brand.png" class="img-responsive">
+            </a>
+          </div>
+          <div id="advance" class="navbar-collapse collapse">
+            <form class="navbar-form">
+              <div class="form-group">
+                <input type="text" placeholder="Search..." class="form-control">
+              </div>
+              <div class="form-group select-category">
+                <select class="form-control">
+                  <option value="-1">Category</option>
+                  <option>Brands</option>
+                  <option>Men's Watches</option>
+                  <option>Ladies Wathces</option>
+                  <option>Strap</option>
+                  <option>News</option>
+                  <option>Sale</option>
+                </select>
+              </div>
+              <button type="submit" class="btn btn-black btn-search">
+                <img src="images/icon/white-search.png">
+              </button>
+            </form>
+            <ul class="nav navbar-nav navbar-right navbar-right-in">
+              <li class="dropdown">
+                <a href="" class="dropdown-toggle cart-anchor" data-toggle="dropdown" role="button" aria-expanded="false">
+                  <span>SHOPPING CART</span>
+                  <div class="bag-count">
+                    <img src="images/icon/shopping-bag.png" class="def-icon">
+                    <span class="badge def-badge">2</span>
+                  </div>
+                  <span class="caret"></span>
+                </a>
+                <ul class="dropdown-menu def-dropdown" role="menu">
+                  <li class="item">
+                    <a href="">
+                      <div class="media">
+                        <div class="media-left">
+                          <img class="media-object" src="images/icon/orange-shopping-bag.png" alt="...">
+                        </div>
+                        <div class="media-body">
+                          <h5 class="media-heading">LOREM IPSUM DOLOR</h5>
+                          <p class="sub-heading">1 X IDR 300.000</p>
+                          <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="item">
+                    <a href="">
+                      <div class="media">
+                        <div class="media-left">
+                          <img class="media-object" src="images/icon/orange-shopping-bag.png" alt="...">
+                        </div>
+                        <div class="media-body">
+                          <h5 class="media-heading">LOREM IPSUM DOLOR</h5>
+                          <p class="sub-heading">1 X IDR 300.000</p>
+                          <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                  <li class="total">
+                    <div class="separator">
+                      <div class="row">
+                        <div class="col-xs-6">
+                          <p>SUBTOTAL</p>
+                        </div>
+                        <div class="col-xs-6">
+                          <p class="text-right"><b>IDR 600.000</b></p>
+                        </div>
+                      </div>
+                    </div>
+                    <button type="submit" class="btn btn-orange btn-block">CHECKOUT</button>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+          <div id="category" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav text-center def-list">
+              <li><a href=""><i class="fa fa-home"></i></a></li>
+              <li><a href="">BRANDS</a></li>
+              <li><a href="">MEN'S WATCHES</a></li>
+              <li><a href="">LADIES WATCHES</a></li>
+              <li><a href="">STRAP</a></li>
+              <li><a href="">NEWS</a></li>
+              <li><a href="">SALE</a></li>
+              <li><a href="">CONFIRM PAYMENT</a></li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right text-center def-list">
+              <li><a href="">SIGN IN</a></li>
+              <li><a href="">REGISTER</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </div>
+
+    <div class="def-content">
+      <div class="product">
+        <div class="container-fluid">
+          <div class="def-temp">
+            <div class="head">
+              <div class="row">
+                <div class="col-xs-12">
+                  <img src="images/watch.png" class="img-responsive pull-left">
+                  <h3 class="title"><span class="orange">PRODUCT</span> DETAILS</h3>
+                  <ol class="breadcrumb pull-right">
+                    <li><a href="">Home</a></li>
+                    <li><a href="">Brands</a></li>
+                    <li><a href="">DKNY</a></li>
+                    <li class="active">Lorem Ipsum Dolor</li>
+                  </ol>
+                </div>
+              </div>
+            </div>
+            <div class="content">
+              <div class="row">
+                <div class="col-sm-7">
+                  <div class="carousel slide carousel-thumbnail" data-ride="carousel">
+                    <div class="row">
+                      <div class="col-sm-10">
+                        <div class="carousel-inner">
+                          <div class="active item" data-slide-number="0">
+                            <img src="images/product-lg.jpg" alt="First slide">
+                          </div>
+                          <div class="item" data-slide-number="1">
+                            <img src="images/product-lg.jpg" alt="Second slide">
+                          </div>
+                          <div class="item" data-slide-number="2">
+                            <img src="images/product-lg.jpg" alt="Third slide">
+                          </div>
+                          <div class="item" data-slide-number="3">
+                            <img src="images/product-lg.jpg" alt="Fourth slide">
+                          </div>
+                          <div class="item" data-slide-number="4">
+                            <img src="images/product-lg.jpg" alt="Fifth slide">
+                          </div>
+                        </div>
+                      </div>
+                      <div class="hidden-xs col-sm-2">
+                        <div class="carousel-thumbnail-nav">
+                          <ul class="list-unstyled">
+                            <li>
+                              <a class="carousel-control left" href=".carousel-thumbnail" data-slide="prev">
+                                <div class="dark-round">
+                                  <span class="glyphicon glyphicon-chevron-up"></span>
+                                </div>
+                              </a>
+                            </li>
+                            <li>
+                              <a id="carousel-selector-0" class="selected">
+                                <img class="img-responsive" src="images/product-sm.jpg" alt="detail-small-1">
+                              </a>
+                            </li>
+                            <li>
+                              <a id="carousel-selector-1">
+                                <img class="img-responsive" src="images/product-sm.jpg" alt="detail-small-2">
+                              </a>
+                            </li>
+                            <li>
+                              <a id="carousel-selector-2">
+                                <img class="img-responsive" src="images/product-sm.jpg" alt="detail-small-3">
+                              </a>
+                            </li>
+                            <li>
+                              <a id="carousel-selector-3">
+                                <img class="img-responsive" src="images/product-sm.jpg" alt="detail-small-4">
+                              </a>
+                            </li>
+                            <li>
+                              <a id="carousel-selector-4">
+                                <img class="img-responsive" src="images/product-sm.jpg" alt="detail-small-5">
+                              </a>
+                            </li>
+                            <li>
+                              <a class="carousel-control right" href=".carousel-thumbnail" data-slide="next">
+                                <div class="dark-round">
+                                  <span class="glyphicon glyphicon-chevron-down"></span>
+                                </div>
+                              </a>
+                            </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-5">
+                  <div class="describe">
+                    <div class="title">
+                      <p>FOSSIL</p>
+                      <h3>Lorem Ipsum Dolor</h3>
+                    </div>
+                    <div class="description">
+                      <div class="row">
+                        <div class="col-xs-6">
+                          <p class="code">Code#0013</p>
+                          <p class="status-instock">IN STOCK</p>
+                        </div>
+                        <div class="col-xs-6">
+                          <form class="star-rating pull-right">
+                            <input type="radio" name="rating" value="1"><i></i>
+                            <input type="radio" name="rating" value="2"><i></i>
+                            <input type="radio" name="rating" value="3"><i></i>
+                            <input type="radio" name="rating" value="4"><i></i>
+                          </form>
+                          <p class="star-choice"></p>
+                        </div>
+                        <div class="col-xs-12">
+                          <p class="status-count">Only 1 left in stock</p>
+                          <p class="price">IDR 300.000</p>
+                        </div>
+                        <div class="col-xs-12">
+                          <form role="form" class="form-inline">
+                            <div class="form-group">
+                              <label for="quantity" class="control-label">QTY</label>
+                              <select class="form-control">
+                                <option>1</option>
+                                <option>2</option>
+                                <option>3</option>
+                                <option>4</option>
+                                <option>5</option>
+                              </select>
+                            </div>
+                            <button type="submit" class="btn btn-orange pull-right">ADD TO CART</button>
+                          </form>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="share">
+                      <ol class="breadcrumb">
+                        <li>SHARE</li>
+                        <li><a href="" class="facebook"></a></li>
+                        <li><a href="" class="twitter"></a></li>
+                        <li><a href="" class="youtube"></a></li>
+                        <li><a href="" class="instagram"></a></li>
+                        <li><a href="" class="googleplus"></a></li>
+                      </ol>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="def-temp">
+            <div class="row">
+              <div class="col-sm-9">
+                <div role="tabpanel">
+                  <div class="head">
+                    <img src="images/watch.png" class="img-responsive pull-left">
+                    <ul class="nav nav-tabs as-title" role="tablist">
+                      <li role="presentation" class="active"><a href="#details" aria-controls="details" role="tab" data-toggle="tab">DETAILS</a></li>
+                      <li role="presentation"><a href="#deliveryandreturns" aria-controls="deliveryandreturns" role="tab" data-toggle="tab">DELIVERY & RETURNS</a></li>
+                      <li role="presentation"><a href="#review" aria-controls="review" role="tab" data-toggle="tab">REVIEW</a></li>
+                    </ul>
+                  </div>
+                  <div class="content">
+                    <div class="tab-content as-title-content">
+                      <div role="tabpanel" class="tab-pane active" id="details">
+                        <div class="section">
+                          <p>DESCRIPTION</p>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        </div>
+                        <div class="section">
+                          <p>SPECIFICATIONS</p>
+                          <div class="as-table">
+                            <div class="row">
+                              <div class="col-xs-4">
+                                <p>Brand</p>
+                              </div>
+                              <div class="col-xs-8">
+                                <p>Fossil</p>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-xs-4">
+                                <p>Packaging</p>
+                              </div>
+                              <div class="col-xs-8">
+                                <p>Fossil Packaging</p>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-xs-4">
+                                <p>Guarantee</p>
+                              </div>
+                              <div class="col-xs-8">
+                                <p>Fossil 2 Yeat Guarantee</p>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-xs-4">
+                                <p>Case Width Approx.</p>
+                              </div>
+                              <div class="col-xs-8">
+                                <p>40mm</p>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-xs-4">
+                                <p>Case Depth Approx.</p>
+                              </div>
+                              <div class="col-xs-8">
+                                <p>14mm</p>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-xs-4">
+                                <p>Gender</p>
+                              </div>
+                              <div class="col-xs-8">
+                                <p>Man</p>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-xs-4">
+                                <p>Dial Colour</p>
+                              </div>
+                              <div class="col-xs-8">
+                                <p>LCD</p>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-xs-4">
+                                <p>Case Material</p>
+                              </div>
+                              <div class="col-xs-8">
+                                <p>Plastic / Resin</p>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-xs-4">
+                                <p>Strap Type</p>
+                              </div>
+                              <div class="col-xs-8">
+                                <p>Rubber</p>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-xs-4">
+                                <p>Strap Colour</p>
+                              </div>
+                              <div class="col-xs-8">
+                                <p>White</p>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-xs-4">
+                                <p>Date</p>
+                              </div>
+                              <div class="col-xs-8">
+                                <p>Yes</p>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-xs-4">
+                                <p>Movement</p>
+                              </div>
+                              <div class="col-xs-8">
+                                <p>Japanese (Battery)</p>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-xs-4">
+                                <p>Chonograph</p>
+                              </div>
+                              <div class="col-xs-8">
+                                <p>Yes</p>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-xs-4">
+                                <p>Alarm</p>
+                              </div>
+                              <div class="col-xs-8">
+                                <p>Yes</p>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-xs-4">
+                                <p>Backlight</p>
+                              </div>
+                              <div class="col-xs-8">
+                                <p>Yes</p>
+                              </div>
+                            </div>
+                            <div class="row">
+                              <div class="col-xs-4">
+                                <p>MPN</p>
+                              </div>
+                              <div class="col-xs-8">
+                                <p>ADH2727</p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div role="tabpanel" class="tab-pane" id="deliveryandreturns">
+                        <div class="section">
+                          <p>LOREM IPSUM DOLOR SIT AMET</p>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        </div>
+                        <div class="section">
+                          <p>LOREM IPSUM DOLOR SIT AMET</p>
+                          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        </div>
+                      </div>
+                      <div role="tabpanel" class="tab-pane" id="review">
+                        <div class="section">
+                          <p>Lorem IPSUM DOLOR SIT AMET CONSECTUR</p>
+                          <button class="btn btn-orange">WRITE REVIEW</button>
+                        </div>
+                        <div class="section">
+                          <p>What do yout think of this product?</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="head">
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <h3 class="title no-img"><span class="orange">OTHER</span> SUGGESTIONS</h3>
+                    </div>
+                  </div>
+                </div>
+                <div class="thumbs">
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <a href="" class="thumb">
+                        <div class="image">
+                          <img src="images/product/product-1.jpg" class="img-responsive">
+                        </div>
+                        <div class="desc">
+                          <p class="name">LOREM IPSUM DOLOR</p>
+                          <p class="orange">IDR 300.000</p>
+                        </div>
+                      </a>
+                    </div>
+                    <div class="col-xs-12">
+                      <a href="" class="thumb">
+                        <div class="image">
+                          <img src="images/product/product-1.jpg" class="img-responsive">
+                        </div>
+                        <div class="desc">
+                          <p class="name">LOREM IPSUM DOLOR</p>
+                          <p class="orange">IDR 300.000</p>
+                        </div>
+                      </a>
+                    </div>
+                    <div class="col-xs-12">
+                      <a href="" class="thumb">
+                        <div class="image">
+                          <img src="images/product/product-1.jpg" class="img-responsive">
+                        </div>
+                        <div class="desc">
+                          <p class="name">LOREM IPSUM DOLOR</p>
+                          <p class="orange">IDR 300.000</p>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="def-footer">
+      <footer class="footer">
+        <div class="sitemap">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-sm-2">
+                <img src="images/brand-small.png" class="img-responsive brand">
+              </div>
+              <div class="col-sm-2">
+                <p class="lead">ABOUT WATCH INC</p>
+                <ul class="list-unstyled def-list">
+                  <li><p><a href="">NEW COLLECTIONS</a></p></li>
+                  <li><p><a href="">MEN'S WATCHES</a></p></li>
+                  <li><p><a href="">WOMAN WATCHES</a></p></li>
+                  <li><p><a href="">SALE</a></p></li>
+                  <li><p><a href="">CONFIRM PAYMENT</a></p></li>
+                </ul>
+              </div>
+              <div class="col-sm-2">
+                <p class="lead">OTHER INFORMATION</p>
+                <ul class="list-unstyled def-list">
+                  <li><p><a href="">RETURN & SHIPPING</a></p></li>
+                  <li><p><a href="">FAQ</a></p></li>
+                  <li><p><a href="">HOW TO BUY</a></p></li>
+                  <li><p><a href="">WATCH INC NEWS</a></p></li>
+                </ul>
+              </div>
+              <div class="col-sm-2">
+                <p class="lead">CONTACT</p>
+                <ul class="list-unstyled">
+                  <li><p class="text-icon"><img src="images/icon/iphone.png"> (+62)85779555903</p></li>
+                  <li><p class="text-icon"><img src="images/icon/qrcode.png"> 12345</p></li>
+                  <li><p class="text-icon"><img src="images/icon/topic.png"> Watchnic</p></li>
+                  <li><p class="text-icon"><img src="images/icon/message.png"> info@watchnic.com</p></li>
+                </ul>
+              </div>
+              <div class="col-sm-4">
+                <p class="lead">NEWSLETTER</p>
+                <p>SIGN UP FOR UPDATES AND SPECIAL OFFERS</p>
+                <form class="form-inline footer-form">
+                  <div class="form-group">
+                    <input type="email" class="form-control">
+                  </div>
+                  <button type="submit" class="btn btn-black">SIGN UP</button>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="rights">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-sm-6">
+                <p>Copyright 2015 Watch Inc. All Rights Reserved.</p>
+              </div>
+              <div class="col-sm-6">
+                <ul class="list-inline socials">
+                  <li><a href=""><i class="fa fa-facebook"></i></a></li>
+                  <li><a href=""><i class="fa fa-twitter"></i></a></li>
+                  <li><a href=""><i class="fa fa-instagram"></i></a></li>
+                  <li><a href=""><i class="fa fa-youtube"></i></a></li>
+                  <li><a href=""><i class="fa fa-google-plus"></i></a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script src="scripts/init.js"></script>
+    <script src="scripts/plug.js"></script>
+    <script src="scripts/devs.js"></script>
+
+  </body>
+</html>

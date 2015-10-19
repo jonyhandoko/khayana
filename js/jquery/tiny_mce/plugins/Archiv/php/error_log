@@ -1,0 +1,6 @@
+[23-Oct-2012 22:18:37] PHP Notice:  Undefined offset:  1 in /home/scarletc/public_html/js/jquery/tiny_mce/plugins/Archiv/php/connector.php on line 378
+[23-Oct-2012 22:18:37] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/scarletc/public_html/js/jquery/tiny_mce/plugins/Archiv/php/connector.php:378) in /home/scarletc/public_html/js/jquery/tiny_mce/plugins/Archiv/php/connector.php on line 745
+[23-Oct-2012 22:19:04] PHP Notice:  Undefined offset:  1 in /home/scarletc/public_html/js/jquery/tiny_mce/plugins/Archiv/php/connector.php on line 378
+[23-Oct-2012 22:19:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/scarletc/public_html/js/jquery/tiny_mce/plugins/Archiv/php/connector.php:378) in /home/scarletc/public_html/js/jquery/tiny_mce/plugins/Archiv/php/connector.php on line 745
+[23-Oct-2012 22:20:11] PHP Notice:  Undefined offset:  1 in /home/scarletc/public_html/js/jquery/tiny_mce/plugins/Archiv/php/connector.php on line 378
+[23-Oct-2012 22:20:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/scarletc/public_html/js/jquery/tiny_mce/plugins/Archiv/php/connector.php:378) in /home/scarletc/public_html/js/jquery/tiny_mce/plugins/Archiv/php/connector.php on line 745

@@ -1,0 +1,436 @@
+1405076898TS---><!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Scarlet Collection - Blaire Dress</title>
+
+<meta name="Description" content="Scarlet Collection offers the latest trends with the best selection
+of clothing lines and collections at very affordable prices.">
+
+<meta name="Keywords" content="shopping cart, webstore, scarlet, scarlet collection, scarletcollection, fashion, boutique, shopping online, fashion online,tops,bottom,dresses,outwear">
+
+		<link href="http://localhost:8080/tokita/gocart/themes/scarlet/css/project.css" type="text/css" rel="stylesheet"/>
+<link rel="icon" href="http://localhost:8080/tokita/images/favicon.ico" type="image/x-icon">     
+<script type="text/javascript" src="http://localhost:8080/tokita/js/jquery/jquery-1.7.1.min.js"></script>
+
+
+<meta name="alexaVerifyID" content="A_Y2CAqYKatIbkbSCHMe49Hgsb4" />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34211225-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body>
+
+
+  <div class="topNavContainer" id="stickyheader">
+  		<div style="width: 1004px; margin: 0 auto; padding: 0 10px;">
+    				<a href="http://localhost:8080/tokita/secure/login" class="mright45">Login</a>
+		        <a href="http://localhost:8080/tokita/cart/confirmation_payment" class="mright45">Confirm Payment</a>
+        <div style="float: left; margin-right: 40px;">
+            <img src="http://localhost:8080/tokita/images/bagIcon.png" class="bagIcon">
+            <span class="fleft mright5">My Bag</span>
+            
+            <span><a href="http://localhost:8080/tokita/cart/view_cart" class="mright5">
+            (0)             item(s)</a></span>
+        </div>
+        <div style="float: left; margin-right: 0;">
+		Currency: <a href="#" style="float: none; text-decoration:underline;" class="currency">IDR</a> | <a href="#" style="float: none; " class="currency">USD</a>
+	</div>
+       
+        <div class="searchBarContainer">
+        	<form method="post" accept-charset="utf-8" action="http://localhost:8080/tokita/cart/search" />
+                <input type="text" class="input-search" name="term"/>
+                <input type="submit" class="searchButton" value="">
+            </form>
+        </div>
+        
+        <a class="mright45 mtop10 fright" style="margin-top: 4px;" target="_blank" href="https://www.facebook.com/pages/Scarlet-house/196144370427638"><img src="http://localhost:8080/tokita/images/facebookLogo.png"></a>
+        <a class="mright45 mtop10 fright" style="margin-top: 4px;" target="_blank" href="https://twitter.com/Scarletshops"><img src="http://localhost:8080/tokita/images/twitterLogo.png"></a>
+    	</div>
+    </div>
+<div class="wrapper">
+    <!-- top nav -->
+    
+    <!--/top nav -->
+    
+    <div class="clear"></div>
+    <!-- top menu -->
+    <div class="topMenu" style="position: relative;">
+        <div class="leftTopMenu">
+            <a href="/new">New Arrivals</a>
+            <a href="/clothing">Clothing</a>
+            <!--<a href="/accessories">Accessories</a>-->
+            <!--<a href="/shoes">Shoes</a>-->
+        </div>
+        <div style="position: absolute; top: 0; left: 400px;"><a style="display: block; width: 220px; height: 100px;" href="/."></a></div>
+        <div class="rightTopMenu">
+            <a href="/sale" style="color: #CC0000">Sale</a>
+            <a href="/lookbooks">Lookbook</a>
+            <a href="/accessories">Accessories</a>
+        </div>		
+    </div>
+    <div class="clear"></div>
+    <!--/top menu -->
+    
+    <!-- content -->
+    <div id="content">
+        
+    
+    <div class="leftMenu">
+    <!--<h3 class="listTitle"><a href="/collections">Collections</a></h3>-->
+    <h4 class="sub-listTitle"><img src="http://localhost:8080/tokita/images/arrow.png" class="mright5"><a href="/collections">All Collections</a></h4>
+    <div class="blockNav">
+        <h4 class="sub-listTitle"><img src="http://localhost:8080/tokita/images/arrow.png" class="mright5"><a href="/clothing">Clothing</a></h4>
+        <ul>
+            <li><a href="/top">Top</a></li>
+            <li><a href="/bottom">Bottom</a></li>
+            <li><a href="/dresses">Dresses</a></li>
+            <li><a href="/outwear">Outwear</a></li>
+        </ul>	
+    </div>
+    <h4 class="sub-listTitle"><img src="http://localhost:8080/tokita/images/arrow.png" class="mright5"><a href="/accessories">Accessories</a></h4>
+    <!--<h4 class="sub-listTitle"><img src="http://localhost:8080/tokita/images/arrow.png" class="mright5"><a href="/shoes">Shoes</a></h4>-->
+	<h4 class="sub-listTitle"><img src="http://localhost:8080/tokita/images/arrow.png" class="mright5"><a href="/sale">Sale</a></h4>
+    
+    <div class="blockNav" style="margin-top: 20px">
+	<h2 class="sub-listTitle" style="font-weight: bold; color: #333; ">Social</h2>
+	<a class="fright" style="margin-top: 4px; margin-right: 115px;" target="_blank" href="http://instagram.com/scarlet_collection"><img height="20" src="http://localhost:8080/tokita/images/instagramLogo.png"></a>
+	<a class="fright" style="margin-top: 4px; margin-right: 15px;" target="_blank" href="https://twitter.com/Scarletshops"><img src="http://localhost:8080/tokita/images/twtgrey.png"></a>
+	<a class="fright" style="margin-top: 4px; margin-right: 15px;" target="_blank" href="https://www.facebook.com/pages/Scarlet-house/196144370427638"><img src="http://localhost:8080/tokita/images/fbgrey.jpg"></a>
+    </div>
+    
+    <script>
+	function submitNewsletter(){
+			
+		if($('#newsletter').val()==""){
+			alert("Please fill the field");
+		}else{
+			$('#submitNewsletter').html('<img src="http://www.scarletcollection.com/images/ajax-loader.gif"/>');
+			$.post('http://localhost:8080/tokita/cart/newsletter',{newsletter:$('#newsletter').val()}, function(data){
+				$('.newsletter-message').html(data);
+				$('#newsletter').val("");
+				$('#submitNewsletter').html('<input class="button2 mright10" type="submit" value="Submit" onclick="return submitNewsletter();"/>');
+					//$('input:button, input:submit, button').button();		
+			});
+		}	
+	}
+    </script>
+    <span style="float: right; margin-top: 25px;">
+    	<p class="newsletter-message"></p>
+		        <input type="text" class="input1" placeholder="subscribe newsletter" accesskey="0" name="newsletter" id="newsletter" autocomplete="off"/>
+        <span id="submitNewsletter"><input class="button2 mright10" type="submit" value="Submit" onclick="return submitNewsletter();"/></span>
+        <!--</form>-->
+    </span>
+</div>
+
+<style>
+	.input1{
+		width: 150px;
+	}
+</style><div id="right-content">
+	<link type="text/css" href="http://localhost:8080/tokita/js/jquery/jquery.jqzoom.css" rel="stylesheet" />
+	<script type="text/javascript" src="http://localhost:8080/tokita/js/jquery/jquery.jqzoom-core.js"></script>
+    <link type="text/css" href="http://localhost:8080/tokita/js/jquery/fancybox/jquery.fancybox.css" rel="stylesheet" />
+	<script type="text/javascript" src="http://localhost:8080/tokita/js/jquery/fancybox/jquery.fancybox.js"></script>
+	<script type="application/javascript">
+	var test = 0;
+	
+		function submitform()
+		{
+			document.myform.submit();
+		}
+		
+		function insert_notification()
+		{
+			if($('#customer_email').val()==''){
+				alert('Please input email');
+			}else{
+				$('.notification_container').hide();
+				$('.message_notification').hide();
+
+				var cust = $('#customer_email').val();
+				//remove the shipping and payment forms
+				
+				
+				$('.notification_container').html('<img alt="loading" src="http://localhost:8080/tokita/images/ajax-loader.gif"/></div>').show();
+				$.post('http://localhost:8080/tokita/cart/insert_notification',{email: cust, product:3}, function(data){
+					//populate the form with their information
+					if(data!=1){
+						$('.notification_container').html(data);
+					}else{
+						$('.notification_container').html('<input type="text" id="customer_email" value=""/><input type="button" class="button2" value="Notify Us" onClick="insert_notification()" />');
+						$('.message_notification').html('email invalid').show();
+					}
+					//$('input:button, input:submit, button').button();		
+				});
+			}
+			
+			
+		}
+	
+		$(document).ready(function(){
+			$('.jqzoom').jqzoom({
+				zoomType: 'standard',
+				lens:false,
+				zoomWidth: 425,
+				xOffset: 0,
+				title: false,
+				zoomHeight: 416,  
+				preloadImages: false,
+				alwaysOn:false
+			});
+			
+			$("a#fancybox-buttons").fancybox({
+				openEffect	: 'elastic',
+				closeEffect	: 'elastic'
+			});
+			
+			$('a#fancybox-buttons-1').click(function(event){ 
+				event.preventDefault();
+				$('.detail-thumb').addClass('fancybox');
+				$.fancybox.open($('a#fancybox-buttons'), {openEffect	: 'elastic',
+				closeEffect	: 'elastic',index : test});        
+			});    
+			
+			
+			$('.size').change(function(){
+				var qty = $(this).find(':selected')[0].id;
+
+				$(".quantity").empty();
+				$('.quantity').fadeIn('fast');
+				$(".quantity").append("<span id='loading'></span>");
+				$('.quantity').load('http://localhost:8080/tokita//gocart/themes/scarlet/views/dropdownAJAX.php?check='+qty);
+						
+			});
+		});
+	</script>
+    
+    <style>
+		ul#thumblist a img,:link img,:visited img { border: none; }
+		ul#thumblist a { text-decoration: none; color: #666; display: block; }
+		table { border-collapse: collapse; border-spacing: 0; }
+		:focus { outline: none; }
+		p, blockquote, dd, dt{margin:0 0 8px 0;line-height:1.5em;}
+		fieldset {padding:0px;padding-left:7px;padding-right:7px;padding-bottom:7px;}
+		fieldset legend{margin-left:15px;padding-left:3px;padding-right:3px;color:#333;}
+		dl dd{margin:0px;}
+		dl dt{}
+		
+		.clearfix:after{clear:both;content:".";display:block;font-size:0;height:0;line-height:0;visibility:hidden;}
+		.clearfix{display:block;zoom:1}
+		
+		
+		ul#thumblist{display:block;}
+		ul#thumblist li{float:left;margin: 0 1px 0 0 !important;list-style:none;}
+		ul#thumblist li a{display:block;border:1px solid #CCC; height:100px;}
+		ul#thumblist li a.zoomThumbActive{
+			border:1px solid #333;
+		}
+	</style>
+
+    
+    <div class="contentCategory">
+        <!-- breadcrumb-->
+        <div class="breadcrumbContainer">
+            <a href="/">Home</a> / Clothing / Dress        </div>
+        <!--/breadcrumb-->
+       
+        <!-- product image left -->
+        <div class="productImage clearfix">
+            <div  class="clearfix" >
+            							<script type="application/javascript">
+								test = 	2;							
+							</script>
+                            <a href="http://localhost:8080/tokita/uploads/product/original/47395761a2f68ede33db48f72a5c8e33.jpg"id="fancybox-buttons-1" class="jqzoom" rel="gal1" title=""><img src="http://localhost:8080/tokita/uploads/product/medium/47395761a2f68ede33db48f72a5c8e33.jpg" alt="blaire"/></a>            </div>
+            <div class="clear"></div>
+            			<ul id="thumblist" class="clearfix" style="height: 100px;" >
+									<li>
+						<a data-id="0"  id="fancybox-buttons" href='http://localhost:8080/tokita/uploads/product/original/73fac08f8735e10130fa8e63f7fe4dd6.jpg' rel="{gallery: 'gal1', smallimage: 'http://localhost:8080/tokita/uploads/product/medium/73fac08f8735e10130fa8e63f7fe4dd6.jpg', largeimage: 'http://localhost:8080/tokita/uploads/product/original/73fac08f8735e10130fa8e63f7fe4dd6.jpg'}" title="" data-fancybox-group="button" rel="gallery"><img src="http://localhost:8080/tokita/uploads/product/thumb/73fac08f8735e10130fa8e63f7fe4dd6.jpg"/></a>
+					</li>
+									<li>
+						<a data-id="1"  id="fancybox-buttons" href='http://localhost:8080/tokita/uploads/product/original/377e0d03b5e7f55714866136e15ca6c4.jpg' rel="{gallery: 'gal1', smallimage: 'http://localhost:8080/tokita/uploads/product/medium/377e0d03b5e7f55714866136e15ca6c4.jpg', largeimage: 'http://localhost:8080/tokita/uploads/product/original/377e0d03b5e7f55714866136e15ca6c4.jpg'}" title="" data-fancybox-group="button" rel="gallery"><img src="http://localhost:8080/tokita/uploads/product/thumb/377e0d03b5e7f55714866136e15ca6c4.jpg"/></a>
+					</li>
+									<li>
+						<a data-id="2" class='zoomThumbActive' id="fancybox-buttons" href='http://localhost:8080/tokita/uploads/product/original/47395761a2f68ede33db48f72a5c8e33.jpg' rel="{gallery: 'gal1', smallimage: 'http://localhost:8080/tokita/uploads/product/medium/47395761a2f68ede33db48f72a5c8e33.jpg', largeimage: 'http://localhost:8080/tokita/uploads/product/original/47395761a2f68ede33db48f72a5c8e33.jpg'}" title="" data-fancybox-group="button" rel="gallery"><img src="http://localhost:8080/tokita/uploads/product/thumb/47395761a2f68ede33db48f72a5c8e33.jpg"/></a>
+					</li>
+									<li>
+						<a data-id="3"  id="fancybox-buttons" href='http://localhost:8080/tokita/uploads/product/original/a1a2d126380ec353d8ebfcb91eec31fd.jpg' rel="{gallery: 'gal1', smallimage: 'http://localhost:8080/tokita/uploads/product/medium/a1a2d126380ec353d8ebfcb91eec31fd.jpg', largeimage: 'http://localhost:8080/tokita/uploads/product/original/a1a2d126380ec353d8ebfcb91eec31fd.jpg'}" title="" data-fancybox-group="button" rel="gallery"><img src="http://localhost:8080/tokita/uploads/product/thumb/a1a2d126380ec353d8ebfcb91eec31fd.jpg"/></a>
+					</li>
+						
+			</ul>
+			        </div>
+        
+        <!-- product image left -->
+        
+        
+        
+        <!-- product description -->
+        <div class="detailProductContainer">
+			<form action="cart/add_to_cart" method="post" accept-charset="utf-8" name="myform">
+            <input type="hidden" name="cartkey" value="" />
+            <input type="hidden" name="id" value="3"/>
+            <h3 class="detailProductName">BLAIRE DRESS</h3>
+                            <p class="price"> IDR 10.000</p>
+             
+        <div id="description_tab" class="details calibri14 line20">
+        <ul class="details">
+<li>Material: Silky Polyester</li>
+<li>Fit and flare cut with tulle lining inside, fully lined.</li>
+<li>Available in S, M, L</li>
+<li>S: Bust: 90cm| Waist: 70cm| Hips: 140cm |Length: 85cm</li>
+<li>M: Bust: 94cm| Waist: 74cm| Hips: 140cm |Length: 86cm</li>
+<li>L: Bust: 98cm| Waist: 78cm| Hips: 140cm |Length: 87cm</li>
+<li>Weight: 0.25kg</li>
+<li>Model is 175cm/50 kg, she's wearing size S</li>
+<li>Also available in other color: Yellow</li>
+</ul>            
+        </div>         
+        <br/>   
+        <hr>
+        <br/>
+                	<div class="stock_msg">
+				<div class="clear mbtm10"></div>
+				<p class="red italic times13">Sorry this item is sold out, we will notify you by email once this item is available.</p>
+            	<div class="message_notification" style="display: none"></div>
+            	<div class="notification_container">
+                <input type="hidden" id="product_id" value="3"/>
+            	                	
+                	<input type="text" id="customer_email" value=""/>
+                    <input type="button" class="button2" value="Notify Us" onClick="insert_notification()" />
+                            	</div>
+                
+            </div>
+                
+        <p class="georgia11 italic mtop10">* We cannot guarantee that the colour are 100% accurate on your screen, it depends on your monitor display settings</p>
+        
+        <div class="clear social">
+            <!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-5011597326728e6b"></script>
+<!-- AddThis Button END -->
+        </div>
+        </form>
+    </div>
+    <div class="relatedProductContainer">
+        <h3>you might also like :</h3>
+        
+                <ul>
+                
+            <li>
+                <a href="http://localhost:8080/tokita/zara" >
+                    <img width="70" src="http://localhost:8080/tokita/uploads/product/thumb/c85a7f03fba323e604d495e70c601632.jpg" alt="zara"/>                    
+                    <p>
+						Zara 
+                    </p>
+				</a>
+                                </li>
+        </ul>    </div>			
+    
+    <!--/product description -->
+</div>
+</div>
+
+    
+<style>
+.fancybox-custom .fancybox-skin {
+	box-shadow: 0 0 50px #222;
+}
+		
+.fancybox-skin{
+	padding: 5px !important;
+}
+</style>
+    	</div>
+    </div>
+    
+<script type="text/javascript">
+$(function(){
+        // Check the initial Poistion of the Sticky Header
+        var stickyHeaderTop = $('#stickyheader').offset().top;
+
+        $(window).scroll(function(){
+                if( $(window).scrollTop() > stickyHeaderTop ) {
+                        $('#stickyheader').css({position: 'fixed', top: '0px'});
+                        $('#stickyalias').css('display', 'block');
+                } else {
+                        $('#stickyheader').css({position: 'static', top: '0px'});
+                        $('#stickyalias').css('display', 'none');
+                }
+        });
+        
+        $('.currency').click(function() {
+		$.post('http://localhost:8080/tokita/cart/set_currency', { currency: $(this).html()}, function(response)
+		{
+			window.location.reload();
+		});
+	});
+  });
+  </script>
+    <script type="text/javascript">
+	$(window).bind("load", function() {
+	var footer = $(".footer");
+	var pos = footer.position();
+	var height = $(window).height();
+	height = height - pos.top;
+	height = height - footer.height() - 5;
+	    if (height > 0) {
+		  footer.css({'margin-top' : height+'px'});
+	  }
+	});
+	</script>
+    
+    <div class="footer" id="stickyFooter">
+		<div class="footerInside">
+			<a href="#" class="footerLogo"></a>
+			
+			<ul class="footerLinks">
+			<li>&copy; Scarlet 2012 all right reserved</li>
+            	<li><a href="/about">About us</a></li>
+				<li><a href="/cart/contactus">Contact us</a></li>
+				<li><a href="/order">How To Order</a></li>
+				<li><a href="/shipping">Shipping and return</a></li>
+				<li><a href="/terms">Terms and Conditions</a></li>
+			</ul>
+			<a href="#" style="float: right; margin-" class="paypalIcon"></a>
+			<a href="/memberoffer" class="memberOffer"></a>
+			
+		</div>
+	</div>
+	
+	<style>
+		.footerLinks li{
+			float: left;
+			list-style: none;
+			font: 11px arial;
+			line-height: 45px;
+		}
+		
+		.footerLinks li a{
+			color: #fff;
+			text-decoration: none;
+			font: 11px arial;
+			margin: 0 6px;
+			line-height: 45px;
+		}
+
+		
+
+		p.copy{margin: 3px 0; font: 11px arial;} 
+	</style>
+</body>
+</html>

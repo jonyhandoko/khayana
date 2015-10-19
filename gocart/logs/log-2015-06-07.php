@@ -1,0 +1,209 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-06-07 02:31:42 --> Severity: Notice  --> Undefined index:  category C:\wamp\www\watchinc\gocart\controllers\cart.php 74
+ERROR - 2015-06-07 02:31:42 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\controllers\cart.php 74
+ERROR - 2015-06-07 02:31:42 --> Severity: Notice  --> Undefined variable: product_filter C:\wamp\www\watchinc\gocart\controllers\cart.php 74
+ERROR - 2015-06-07 02:35:36 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:35:36 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:35:36 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:35:36 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:35:36 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:35:36 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:35:36 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:35:36 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:35:36 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:35:36 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:35:36 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:35:36 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:35:36 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:35:36 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:36 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:35:37 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:35:37 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:35:37 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:35:37 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:35:37 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\controllers\cart.php 77
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\controllers\cart.php 77
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\controllers\cart.php 78
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\controllers\cart.php 78
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\controllers\cart.php 77
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\controllers\cart.php 77
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\controllers\cart.php 78
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\controllers\cart.php 78
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:38:08 --> Severity: Warning  --> Attempt to assign property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 130
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 147
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 152
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 153
+ERROR - 2015-06-07 02:38:08 --> Severity: Notice  --> Trying to get property of non-object C:\wamp\www\watchinc\gocart\themes\watchinc\views\homepage.php 154
+ERROR - 2015-06-07 02:48:57 --> Severity: Notice  --> Undefined property: stdClass::$value_id C:\wamp\www\watchinc\gocart\views\admin\iframe\product_attribute_view.php 14
+ERROR - 2015-06-07 02:48:57 --> Severity: Notice  --> Undefined property: stdClass::$value_id C:\wamp\www\watchinc\gocart\views\admin\iframe\product_attribute_view.php 14
+ERROR - 2015-06-07 02:50:48 --> You must specify a source image in your preferences.
+ERROR - 2015-06-07 02:50:52 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\watchinc\gocart\controllers\admin\products.php 289
+ERROR - 2015-06-07 02:50:56 --> Could not find the language line "max_file_size"
+ERROR - 2015-06-07 02:51:06 --> You did not select a file to upload.
+ERROR - 2015-06-07 02:51:12 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\watchinc\gocart\controllers\admin\products.php 289
+ERROR - 2015-06-07 02:51:53 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\watchinc\gocart\controllers\admin\products.php 289
+ERROR - 2015-06-07 02:59:13 --> Severity: Notice  --> Undefined property: stdClass::$value_id C:\wamp\www\watchinc\gocart\views\admin\iframe\product_attribute_view.php 14
+ERROR - 2015-06-07 02:59:13 --> Severity: Notice  --> Undefined property: stdClass::$value_id C:\wamp\www\watchinc\gocart\views\admin\iframe\product_attribute_view.php 14
+ERROR - 2015-06-07 03:00:56 --> You must specify a source image in your preferences.
+ERROR - 2015-06-07 03:01:00 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\watchinc\gocart\controllers\admin\products.php 289
+ERROR - 2015-06-07 03:06:37 --> Severity: Notice  --> Undefined property: stdClass::$value_id C:\wamp\www\watchinc\gocart\views\admin\iframe\product_attribute_view.php 14
+ERROR - 2015-06-07 03:06:37 --> Severity: Notice  --> Undefined property: stdClass::$value_id C:\wamp\www\watchinc\gocart\views\admin\iframe\product_attribute_view.php 14
+ERROR - 2015-06-07 03:13:34 --> You must specify a source image in your preferences.
+ERROR - 2015-06-07 03:13:41 --> Severity: Warning  --> Invalid argument supplied for foreach() C:\wamp\www\watchinc\gocart\controllers\admin\products.php 289

@@ -1,0 +1,35 @@
+SetEnv TZ Asia/Jakarta
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond $1 !^(index\.php|_|tv|temp|pics|big_pics|images|files|config|system|sitemap\.xml|robots\.txt)
+	RewriteRule ^(.*)$ /index.php/$1 [L]
+	
+</IfModule>
+# Google Analytics Integration - Added by cPanel.
+<IfModule mod_substitute.c>
+AddOutputFilterByType SUBSTITUTE text/html
+Substitute "s|(<script src='/google_analytics_auto.js'></script>)?</head>|<script src='/google_analytics_auto.js'></script></head>|i"
+</IfModule>
+# END Google Analytics Integration
+# 1 YEAR
+<filesMatch "\.(ico|pdf|flv)$">
+Header set Cache-Control "max-age=29030400, public"
+</filesMatch>
+# 1 WEEK
+<filesMatch "\.(jpg|jpeg|png|gif|swf)$">
+Header set Cache-Control "max-age=604800, public"
+</filesMatch>
+# 1 WEEK
+<filesMatch "\.(xml|txt|css|js)$">
+Header set Cache-Control "max-age=604800, proxy-revalidate"
+</filesMatch>
+# 1 MIN
+<filesMatch "\.(html|htm|php)$">
+Header set Cache-Control "max-age=60, private, proxy-revalidate"
+</filesMatch>
+<Files example.html>
+ForceType text/html;charset=ISO-8859-1
+</Files>

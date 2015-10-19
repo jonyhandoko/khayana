@@ -1,0 +1,154 @@
+<?php
+Class Lookbook_model extends CI_Model
+{
+	function __construct()
+	{
+			parent::__construct();
+	}
+
+	function get_lookbooks($limit = false)
+	{
+		if($limit)
+		{
+			$this->db->limit($limit);
+		}
+		return $this->db->order_by('sequence ASC')->get('lookbooks')->result();
+	}
+	
+	function get_homepage_lookbooks($limit = false)
+	{
+		$lookbooks	= $this->db->order_by('sequence ASC')->get('lookbooks')->result();
+		$count = 0;
+		$return	= array();
+		foreach ($lookbooks as $lookbook)
+		{
+			if ($lookbook->enable_on == '0000-00-00')
+			{
+				$enable_test	= false;
+				$enable			= '';
+			}
+			else
+			{
+				$eo			 	= explode('-', $lookbook->enable_on);
+				$enable_test	= $eo[0].$eo[1].$eo[2];
+				$enable			= $eo[1].'-'.$eo[2].'-'.$eo[0];
+			}
+
+			if ($lookbook->disable_on == '0000-00-00')
+			{
+				$disable_test	= false;
+				$disable		= '';
+			}
+			else
+			{
+				$do			 	= explode('-', $lookbook->disable_on);
+				$disable_test	= $do[0].$do[1].$do[2];
+				$disable		= $do[1].'-'.$do[2].'-'.$do[0];
+			}
+
+			$curDate		= date('Ymd');
+
+			if (($enable_test && $enable_test > $curDate) || ($disable_test && $disable_test <= $curDate))
+			{
+				//fails to make it. rewrite this if statement one day to work opposite of how it does.
+			}
+			else
+			{
+				$return[]	= $lookbook;
+				$count++;
+			}
+			
+			if($limit && $count >= $limit)
+			{
+				break;
+			}
+			
+		}
+
+		return $return;
+	}
+	
+	function get_lookbook($id)
+	{
+		$this->db->where('id', $id);
+		$result = $this->db->get('lookbooks');
+		$result = $result->row();
+		
+		if ($result)
+		{
+			if ($result->enable_on == '0000-00-00')
+			{
+				$result->enable_on = '';
+			}
+			
+			if ($result->disable_on == '0000-00-00')
+			{
+				$result->disable_on = '';
+			}
+		
+			return $result;
+		}
+		else
+		{ 
+			return array();
+		}
+	}
+	
+	function delete($id)
+	{
+		
+		$lookbook	= $this->get_lookbook($id);
+		if ($lookbook)
+		{
+			$this->db->where('id', $id);
+			$this->db->delete('lookbooks');
+			
+			return 'The "'.$lookbook->title.'" lookbook has been removed.';
+		}
+		else
+		{
+			return 'The lookbook could not be found.';
+		}
+	}
+	
+	function get_next_sequence()
+	{
+		$this->db->select('sequence');
+		$this->db->order_by('sequence DESC');
+		$this->db->limit(1);
+		$result = $this->db->get('lookbooks');
+		$result = $result->row();
+		if ($result)
+		{
+			return $result->sequence + 1;
+		}
+		else
+		{
+			return 0;
+		}
+	}
+	
+	function save($data)
+	{
+		if(isset($data['id']))
+		{
+			$this->db->where('id', $data['id']);
+			$this->db->update('lookbooks', $data);
+		}
+		else
+		{
+			$data['sequence'] = $this->get_next_sequence();
+			$this->db->insert('lookbooks', $data);
+		}
+	}
+	
+	function organize($lookbooks)
+	{
+		foreach ($lookbooks as $sequence => $id)
+		{
+			$data = array('sequence' => $sequence);
+			$this->db->where('id', $id);
+			$this->db->update('lookbooks', $data);
+		}
+	}
+}
