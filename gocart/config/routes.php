@@ -48,19 +48,11 @@ $route['admin']					= 'admin/dashboard';
 //get routes from database
 include('database.php');
 
-if($db[$active_group]['pconnect'])
-{
-	mysql_pconnect($db[$active_group]['hostname'],$db[$active_group]['username'],$db[$active_group]['password']);	
-}
-else
-{
-	mysql_connect($db[$active_group]['hostname'],$db[$active_group]['username'],$db[$active_group]['password']);	
-}
-mysql_select_db($db[$active_group]['database']) or die("Unable to select database");
+$link = mysqli_connect($db[$active_group]['hostname'],$db[$active_group]['username'],$db[$active_group]['password'],$db[$active_group]['database']);
 
-$routes	= mysql_query('SELECT * FROM '.$db[$active_group]['dbprefix'].'routes');
+$routes	= mysqli_query($link, 'SELECT * FROM '.$db[$active_group]['dbprefix'].'routes');
 
-while($row = mysql_fetch_array($routes))
+while($row = mysqli_fetch_array($routes))
 {
 	if(strpos($row['route'], 'blog'))
 	{
@@ -102,8 +94,9 @@ while($row = mysql_fetch_array($routes))
 	$route[$row['slug']] = $row['route'];
 }
 
-mysql_free_result($routes);
+
+mysqli_free_result($routes);
 
 
 //in case we're using pconnect
-mysql_close();$route[''] = '';
+mysqli_close($link);$route[''] = '';

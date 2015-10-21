@@ -1066,7 +1066,7 @@ class go_cart {
 	//remove shipping details
 	function clear_shipping()
 	{
-		$this->_cart_contents['shipping']['method']	= "No Shipping";  // defaults
+		//$this->_cart_contents['shipping']['method']	= "No Shipping";  // defaults
 		$this->_cart_contents['shipping2']['prices']	= 0.00;
 		
 		$this->_save_cart();

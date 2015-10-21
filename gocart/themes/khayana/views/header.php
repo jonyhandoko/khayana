@@ -62,9 +62,9 @@
 					<center class="hidden-xs">
 						<a href=""><img src="<?php echo base_url('gocart/themes/'.$this->config->item('theme').'/img/logo_header.jpg');?>" /></a>
 					</center>
-					<a href="" class="visible-xs" style="float: left"><img src="img/logo_header.jpg" /></a>
+					<a href="" class="visible-xs" style="float: left"><img src="<?php echo base_url('gocart/themes/'.$this->config->item('theme').'/img/logo_header.jpg');?>" /></a>
 					<button class="navbar-toggle navbar-toggle-left collapsed" data-toggle="collapse" data-target="#category" aria-expanded="false" aria-controls="category">
-						<img src="images/icon/menu.png">
+						<img width="50%" src="<?php echo base_url('/images/khayana/icon/menu.png');?>">
 					</button>
 				</div>
 				

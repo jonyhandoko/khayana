@@ -4,4 +4,7 @@ uploads/*
 database.php
 config.php
 gocart.php
+gocart/logs/*
+invoice/*
+gocart/config/*
 *.bak
